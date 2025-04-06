@@ -18,10 +18,11 @@
 2. Install dependencies
   ```bash
   pip install -r requirements.txt
+
  
 3. Run the codes :)
 ```bash
-  py fla.py
-  py tsp.py
+py fla.py
+py tsp.py
 
 
