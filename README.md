@@ -14,6 +14,7 @@
    ```bash
    git clone https://github.com/yourusername/tsp-hc-sa.git
    cd tsp-hc-sa
+   ```
 
 2. Install dependencies
   ```bash 
@@ -24,6 +25,7 @@
    ```
    py fla.py
    py tsp.py
+   ```
  
 
 
