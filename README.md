@@ -35,4 +35,4 @@
 
 - Bar chart comparing costs
 
-
+https://docs.google.com/presentation/d/1V7PUG_FdVGyyCeHj-em-B_e6TdKfgKM_Nv1_GC6ErIY/edit?usp=sharing
