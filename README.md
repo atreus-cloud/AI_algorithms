@@ -7,7 +7,7 @@
 - Aborts run after a specified timeout if no goal is reached.
 - Visualizes final tours.
 
-  ## 🔧 Installation
+  ## Installation
 
 1. Clone the repository:
 
@@ -27,6 +27,12 @@
    py fla.py
    py tsp.py
    ```
- 
+ ## Sample Output
+
+- Average cost for each algorithm
+
+- Final tour visualization
+
+- Bar chart comparing costs
 
 
