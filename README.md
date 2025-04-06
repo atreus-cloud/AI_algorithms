@@ -7,7 +7,7 @@
 - Aborts run after a specified timeout if no goal is reached.
 - Visualizes final tours.
 
-  ## Installation
+## Installation
 
 1. Clone the repository:
 
