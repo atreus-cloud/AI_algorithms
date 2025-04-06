@@ -12,8 +12,8 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/tsp-hc-sa.git
-   cd tsp-hc-sa
+   git clone https://github.com/atreus-cloud/AI_algorithms.git
+   cd algo
    ```
 
 2. Install dependencies
