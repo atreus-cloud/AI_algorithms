@@ -14,14 +14,14 @@
    ```bash
    git clone https://github.com/yourusername/tsp-hc-sa.git
    cd tsp-hc-sa
-  ```
+
 2. Install dependencies
   ```
   pip install -r requirements.txt
-  ```
+ 
 3. Run the codes :)
   ```
   py fla.py
   py tsp.py
-  ```
+
 
